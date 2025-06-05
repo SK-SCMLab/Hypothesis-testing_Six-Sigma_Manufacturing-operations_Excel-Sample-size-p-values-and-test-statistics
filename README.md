@@ -81,6 +81,8 @@ Assume that a bank call center is piloting new technology to process payments wh
 
 ---
 
+### ☯️ Interpretation
+1. *Situation: The Quality Manager looks at the Planning Resource data that is continuous and realizes that one of the machines output is defective. Currently, the population Standard Deviation for Casting & Rolling are at 19% and 49% respectively. Now, the Manager wants to decide the size of a sample that can improve the defect rate within ±10 units with 90% confidence level*
 
 
 
