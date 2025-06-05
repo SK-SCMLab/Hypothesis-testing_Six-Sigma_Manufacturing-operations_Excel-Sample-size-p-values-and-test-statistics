@@ -69,3 +69,10 @@ Assume that a Steel manufacturing company is comparing two methods of fulfilling
 
 ### Practical but not Significant:
 Assume that a bank call center is piloting new technology to process payments which has increased transactions by 500 per day. Although the new technology has a higher average that will have a practical impact to the business there is no statistically significant difference since p ≥ 0.05
+
+---
+
+
+
+
+*"In God we trust. All other must bring data" - W. Edwards Deming*
