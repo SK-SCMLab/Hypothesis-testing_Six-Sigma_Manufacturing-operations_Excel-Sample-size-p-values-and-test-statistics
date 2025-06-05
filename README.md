@@ -14,10 +14,13 @@ Sample size can be calculated by answering three simple questions
 -> How much representation error is allowed in the sample? (α)
 
 The sample size (n) of continuous data can be determined by the formula: 
+
 **n = [(Z₁₋α/₂*σ)/Δ]^2**
 
 The sample size (n) for discrete data can be determined by the formula:
+
 **n= [(Z₁₋α/₂)/Δ]^2*p(1-p)**; σ = sqrt(p(1-p)
+
 'p' is the % of non-defective
 
 ---
