@@ -84,11 +84,16 @@ Assume that a bank call center is piloting new technology to process payments wh
 
 ### ☯️ Interpretation
 
-1. *Situation: The Quality Manager looks at the Planning Resource data that is continuous and realizes that one of the machines output is defective. Currently, the population Standard Deviation for Casting & Rolling are at 19 units and 49 units respectively. Now, the Manager wants to decide the size of a sample that can improve the defect rate within ±10 units with 90% confidence level*
+1. *Situation 1: The Quality Manager looks at the Planning Resource data that is continuous. Currently, the population Standard Deviation for Casting & Rolling are at 19 units and 49 units respectively. Now, the Manager wants to decide the size of a sample that can improve the defect rate within ±10 units tolerance with 90% confidence level*
 
-From the excel calulation, the recommended to have the sample size:
+From the excel calulation, it is recommended to have the sample size:
 
 - for casting, with a range between 70 to 90 data points
 - for rolling, with a range between 60 to 80 data points
 
+   *Situation 2: Later the Quality Manager realized that one of the machine outputs is defective. The non-defective population proportion for casting machine is 70%. Now, the Manager wants to decide the sample size to draw the sample that can estimate the proportion of compliant steel sheets within ±20 units tolerance with 90% confidence level*
+
+From the excel calculation, for casting, it is recommended to have a sample size ranging between 50-80 data points
+
+2. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time 
 *"In God we trust. All other must bring data" - W. Edwards Deming*
