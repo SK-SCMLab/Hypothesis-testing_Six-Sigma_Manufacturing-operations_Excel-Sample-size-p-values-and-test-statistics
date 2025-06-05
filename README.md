@@ -49,3 +49,23 @@ The p-value is the probability that any differences observed are due to random c
 - If the alternative hypothesis tests more than one direction, either less or more, use a 2-tailed probability value from the test, i.e., Mean (A) ≠ Mean (B)
 - If the alternative hypothesis tests are one direction, use a 1-tailed probability value from the test, i.e., Mean (A) > Mean (B)
 
+---
+
+## ✴️ Methods of Hypothesis Test conclusions
+Compare a calculated test statistic to a critical value
+- If test statistic > Critical value, reject H₀
+- If test statistic < Critical value, fail to reject H₀
+
+*Compare p-value to the alpha risk*
+
+- If p-value < alpha risk, reject H₀
+- If p-value > alpha risk, fail to reject H₀
+
+---
+
+## ☢️ Statistical & Practical Significance of Hypothesis test
+### Significant but not Practical:
+Assume that a Steel manufacturing company is comparing two methods of fulfilling customer orders in which the new method is significantly faster than the standard ones by 1 hour, however to justify the cost of changing to the new method, a reduction of 2 hours is required
+
+### Practical but not Significant:
+Assume that a bank call center is piloting new technology to process payments which has increased transactions by 500 per day. Although the new technology has a higher average that will have a practical impact to the business there is no statistically significant difference since p ≥ 0.05
