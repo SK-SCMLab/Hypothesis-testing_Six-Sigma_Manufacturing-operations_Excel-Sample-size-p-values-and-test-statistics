@@ -64,11 +64,20 @@ Compare a calculated test statistic to a critical value
 ---
 
 ## ☢️ Statistical & Practical Significance of Hypothesis test
-### Significant but not Practical:
+### ‼️Significant but not Practical:
 Assume that a Steel manufacturing company is comparing two methods of fulfilling customer orders in which the new method is significantly faster than the standard ones by 1 hour, however to justify the cost of changing to the new method, a reduction of 2 hours is required
 
-### Practical but not Significant:
+### ⁉️Practical but not Significant:
 Assume that a bank call center is piloting new technology to process payments which has increased transactions by 500 per day. Although the new technology has a higher average that will have a practical impact to the business there is no statistically significant difference since p ≥ 0.05
+
+---
+
+## 🛃 Case Study: Hypothesis testing by the Quality Manager in a Steel manufacturing plant
+### 🈲 Objectives
+1. Sample size estimation for defect detection
+2. Cycle time comparison before and after improvement for Casting & Rolling machines
+3. One tailed Z-test for Thickness validation for Casting & rolling machines
+4. Comparing planning performance based on shifts using T-Test
 
 ---
 
