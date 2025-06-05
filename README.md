@@ -74,6 +74,7 @@ Assume that a bank call center is piloting new technology to process payments wh
 
 ## 🛃 Case Study: Hypothesis testing by the Quality Manager in a Steel manufacturing plant
 ### 🈲 Objectives
+
 1. Sample size estimation for defect detection
 2. Cycle time comparison before and after improvement for Casting & Rolling machines
 3. One tailed Z-test for Thickness validation for Casting & rolling machines
@@ -82,8 +83,12 @@ Assume that a bank call center is piloting new technology to process payments wh
 ---
 
 ### ☯️ Interpretation
-1. *Situation: The Quality Manager looks at the Planning Resource data that is continuous and realizes that one of the machines output is defective. Currently, the population Standard Deviation for Casting & Rolling are at 19% and 49% respectively. Now, the Manager wants to decide the size of a sample that can improve the defect rate within ±10 units with 90% confidence level*
 
+1. *Situation: The Quality Manager looks at the Planning Resource data that is continuous and realizes that one of the machines output is defective. Currently, the population Standard Deviation for Casting & Rolling are at 19 units and 49 units respectively. Now, the Manager wants to decide the size of a sample that can improve the defect rate within ±10 units with 90% confidence level*
 
+From the excel calulation, the recommended to have the sample size:
+
+- for casting, with a range between 70 to 90 data points
+- for rolling, with a range between 60 to 80 data points
 
 *"In God we trust. All other must bring data" - W. Edwards Deming*
