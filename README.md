@@ -96,6 +96,10 @@ Assume that a bank call center is piloting new technology to process payments wh
 
 3. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time for better efficiency and faster customer delivery. As a part of testing, sample size of 100 data points are considered to compare the performance of old and new machines for casting and rolling operations respectively. The significance level is 0.05 but the manager is unsure of the confidence interval which is to be calculated manually*
    
-      **Inference**: T.Test performance value for both casting and rolling machines is 0.5392. It means that 
+      **Inference**: T.Test performance value for both casting and rolling machines is 0.5392. It means that 53.92% probability that the difference observed between the two                      samples is due to random chance. Since 0.5392 > 0.05, it is not statistically significant.
+   
+      **Conclusion**: 1. Fail to reject the null hypothesis (H₀)
+                      2. There is no evidence of a statisitcally significant difference between the two sample groups. Hence, we cannot confidently claim that the groups                             are different based on this data
 
+4. *Situation: Now, the Quality Manager, wants to validate the thickness for both casting & rolling machines. Because the new machinery supplier claims that the steel sheets are thinner when compared to the older machines. 
 *"In God we trust. All other must bring data" - W. Edwards Deming*
