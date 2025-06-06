@@ -78,7 +78,6 @@ Assume that a bank call center is piloting new technology to process payments wh
 1. Sample size estimation for defect detection
 2. Cycle time comparison before and after improvement for Casting & Rolling machines
 3. One tailed Z-test for Thickness validation for Casting & rolling machines
-4. Comparing planning performance based on shifts using T-Test
 
 ---
 
@@ -106,5 +105,36 @@ Assume that a bank call center is piloting new technology to process payments wh
       **Inference & Conclusion**: (i) For Casting machine, p = 0.014 < 0.05; there is a strong evidence against the null hypothesis (H₀). Hence, we need to **Reject H₀** as                                       the observed result is significantly different in the expected direction.
                                   (ii) For Rolling machine, p = 0.89 > 0.05; there is no evidence against the null hypothesis (H₀). In fact, the result is very likely due                                          to chance. Hence, **Fail to reject H₀** as the sample result is not significantly different in the expected direction
 
+
+---
+
+## 🈲 Repository structure
+CharacterisiticValue2_dataset.xlsx
+     - Analysis
+
+---
+
+## ☦️ Excel Functionalities used
+- COUNTIF()
+- IF()
+- STDDEV.P()
+- STDDEV.S()
+- AVERAGE()
+- CONFIDENCE.T()
+- T.TEST()
+- SQRT()
+- NORM.S.DIST()
+- NORM.S.INV()
+- ROUND()
+- RAND()
+- RANDBETWEEN()
+
+---
+
+## ♨️ Requirements
+- Microsoft Excel 2016 or later
+- Business acumen, Basics of Statistical data modeling
+
+---
 
 *"In God we trust. All other must bring data" - W. Edwards Deming*
