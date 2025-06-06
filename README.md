@@ -95,5 +95,7 @@ From the excel calulation, it is recommended to have the sample size:
 
 From the excel calculation, for casting, it is recommended to have a sample size ranging between 50-80 data points
 
-2. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time 
+2. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time for better efficiency and faster customer delivery. As a part of testing, sample size of 100 data points are considered to compare the performance of old and new machines for casting and rolling operations respectively. The significance level is 0.05 but the manager is unsure of the confidence interval which is to be calculated manually*
+
+
 *"In God we trust. All other must bring data" - W. Edwards Deming*
