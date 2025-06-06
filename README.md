@@ -128,6 +128,7 @@ CharacterisiticValue2_dataset.xlsx
 - ROUND()
 - RAND()
 - RANDBETWEEN()
+- STANDARDIZE()
 
 ---
 
