@@ -94,12 +94,17 @@ Assume that a bank call center is piloting new technology to process payments wh
 
       **Inference**: From the excel calculation, for casting, it is recommended to have a sample size ranging between 50-80 data points
 
-3. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time for better efficiency and faster customer delivery. As a part of testing, sample size of 100 data points are considered to compare the performance of old and new machines for casting and rolling operations respectively. The significance level is 0.05 but the manager is unsure of the confidence interval which is to be calculated manually*
+2. *Situation: After the joint regional meeting, the company decided to upgrade casting and rolling machines in the plant that can improve the cycle time for better efficiency and faster customer delivery. As a part of testing, sample size of 100 data points are considered to compare the performance of old and new machines for casting and rolling operations respectively. The significance level is 0.05 but the manager is unsure of the confidence interval which is to be calculated manually*
    
       **Inference**: T.Test performance value for both casting and rolling machines is 0.5392. It means that 53.92% probability that the difference observed between the two                      samples is due to random chance. Since 0.5392 > 0.05, it is not statistically significant.
    
       **Conclusion**: 1. Fail to reject the null hypothesis (H₀)
                       2. There is no evidence of a statisitcally significant difference between the two sample groups. Hence, we cannot confidently claim that the groups                             are different based on this data
 
-4. *Situation: Now, the Quality Manager, wants to validate the thickness for both casting & rolling machines. Because the new machinery supplier claims that the steel sheets are thinner when compared to the older machines. 
+3. *Situation: Now, the Quality Manager, wants to validate the thickness for both casting & rolling machines. Because the new machinery supplier claims that the steel sheets are thinner when compared to the older machines.*
+
+      **Inference & Conclusion**: (i) For Casting machine, p = 0.014 < 0.05; there is a strong evidence against the null hypothesis (H₀). Hence, we need to **Reject H₀** as                                       the observed result is significantly different in the expected direction.
+                                  (ii) For Rolling machine, p = 0.89 > 0.05; there is no evidence against the null hypothesis (H₀). In fact, the result is very likely due                                          to chance. Hence, **Fail to reject H₀** as the sample result is not significantly different in the expected direction
+
+
 *"In God we trust. All other must bring data" - W. Edwards Deming*
